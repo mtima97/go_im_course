@@ -1,11 +1,10 @@
 <component name="ProjectRunConfigurationManager">
-	<configuration default="false" name="run_test" type="GoApplicationRunConfiguration" factoryName="Go Application">
-		<module name="go_im_course"/>
-		<working_directory value="$PROJECT_DIR$"/>
-		<kind value="PACKAGE"/>
-		<package value="gocourse/cmd/test"/>
-		<directory value="$PROJECT_DIR$"/>
-		<filePath value="$PROJECT_DIR$/cmd/test/main.go"/>
-		<method v="2"/>
-	</configuration>
+  <configuration default="false" name="run_test" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="PACKAGE" />
+    <package value="gocourse/cmd/test" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/cmd/test/main.go" />
+    <method v="2" />
+  </configuration>
 </component>
